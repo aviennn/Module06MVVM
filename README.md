@@ -7,7 +7,7 @@
 ![Update User](pics/update.png)
 
 ## Operation
-![Update or Delete User](pics/operation.png)
+![Update or Delete User](pics/opration.png)
 
 ## View
 ![View User](pics/view.png)
